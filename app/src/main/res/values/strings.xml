@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Lab1</string>
+    <string name="age_calculator">Age Calculator</string>
+    <string name="input_your_birthday">Input your birthday:</string>
+    <string name="set_birth_date">Calculate Age</string>
+    <string name="your_birthdate">Your Birthdate:</string>
+    <string name="your_age">Your age:</string>
+    <string name="years">Years:</string>
+    <string name="months">Months:</string>
+    <string name="days">Days:</string>
+    <string name="happy_birthday">Happy Birthday!</string>
+</resources>
